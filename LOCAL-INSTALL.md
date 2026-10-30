@@ -5,7 +5,7 @@ This fork adds one per-workspace setting to Workspaces Plus:
 When it is on, the file you were reading stays in the main pane after the
 workspace layout is applied. The setting is off for every workspace by default.
 
-Upstream PR: see the `feat/keep-active-file` branch and the PR linked from it.
+Upstream PR: https://github.com/jsmorabito/obsidian-workspaces-plus/pull/146 (branch `feat/keep-active-file`).
 This page is for the local build only. It is not part of the PR.
 
 ## Build and install
